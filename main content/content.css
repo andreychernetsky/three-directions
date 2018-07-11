@@ -1,0 +1,50 @@
+body{
+    background:#F5F5F5;
+}
+main.wrapper{
+    width: 960px;
+    margin: 0 auto;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    margin-bottom: 20px;
+}
+section.content{
+    width: 600px;
+    margin: 20px 330px 0 15;
+}
+article.artblock{
+    margin-bottom: 20px;
+}
+article p{
+    /*display: flex;*/
+
+
+}
+article.artblock h3 a{
+    color: #9f6841;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+article.artblock h3 a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+p.atrdata a{
+    color: #9f6841;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+p.artdata a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+footer{
+    background: #d1e4a7;
+}
+footer a{
+
+}
+footer a:hover{
+
+}
